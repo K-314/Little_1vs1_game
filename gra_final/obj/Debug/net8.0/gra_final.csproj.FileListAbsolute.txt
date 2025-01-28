@@ -1,0 +1,14 @@
+C:\Users\kapi3_16hjw3s\OneDrive\Desktop\studia infa\PP sem1\gra 1vs1 RPG\gra_final\bin\Debug\net8.0\gra_final.exe
+C:\Users\kapi3_16hjw3s\OneDrive\Desktop\studia infa\PP sem1\gra 1vs1 RPG\gra_final\bin\Debug\net8.0\gra_final.deps.json
+C:\Users\kapi3_16hjw3s\OneDrive\Desktop\studia infa\PP sem1\gra 1vs1 RPG\gra_final\bin\Debug\net8.0\gra_final.runtimeconfig.json
+C:\Users\kapi3_16hjw3s\OneDrive\Desktop\studia infa\PP sem1\gra 1vs1 RPG\gra_final\bin\Debug\net8.0\gra_final.dll
+C:\Users\kapi3_16hjw3s\OneDrive\Desktop\studia infa\PP sem1\gra 1vs1 RPG\gra_final\bin\Debug\net8.0\gra_final.pdb
+C:\Users\kapi3_16hjw3s\OneDrive\Desktop\studia infa\PP sem1\gra 1vs1 RPG\gra_final\obj\Debug\net8.0\gra_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapi3_16hjw3s\OneDrive\Desktop\studia infa\PP sem1\gra 1vs1 RPG\gra_final\obj\Debug\net8.0\gra_final.AssemblyInfoInputs.cache
+C:\Users\kapi3_16hjw3s\OneDrive\Desktop\studia infa\PP sem1\gra 1vs1 RPG\gra_final\obj\Debug\net8.0\gra_final.AssemblyInfo.cs
+C:\Users\kapi3_16hjw3s\OneDrive\Desktop\studia infa\PP sem1\gra 1vs1 RPG\gra_final\obj\Debug\net8.0\gra_final.csproj.CoreCompileInputs.cache
+C:\Users\kapi3_16hjw3s\OneDrive\Desktop\studia infa\PP sem1\gra 1vs1 RPG\gra_final\obj\Debug\net8.0\gra_final.dll
+C:\Users\kapi3_16hjw3s\OneDrive\Desktop\studia infa\PP sem1\gra 1vs1 RPG\gra_final\obj\Debug\net8.0\refint\gra_final.dll
+C:\Users\kapi3_16hjw3s\OneDrive\Desktop\studia infa\PP sem1\gra 1vs1 RPG\gra_final\obj\Debug\net8.0\gra_final.pdb
+C:\Users\kapi3_16hjw3s\OneDrive\Desktop\studia infa\PP sem1\gra 1vs1 RPG\gra_final\obj\Debug\net8.0\gra_final.genruntimeconfig.cache
+C:\Users\kapi3_16hjw3s\OneDrive\Desktop\studia infa\PP sem1\gra 1vs1 RPG\gra_final\obj\Debug\net8.0\ref\gra_final.dll
